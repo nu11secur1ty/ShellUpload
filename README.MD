@@ -1,2 +1,2 @@
 ## ShellUpload `kurosava.php`
-kurosava.php is a malicious PHP web file uoloader
+kurosava.php is a malicious PHP web shell uploader
